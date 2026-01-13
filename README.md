@@ -1,5 +1,4 @@
 # Deepfake Image Detection using Vision Transformer (ViT)
-
 ---
 
 ## 1. Introduction & Problem Statement
