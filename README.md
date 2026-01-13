@@ -1,6 +1,5 @@
 # Deepfake Image Detection using Vision Transformer (ViT)
 ---
-
 ## 1. Introduction & Problem Statement
 ### 1.1 The Problem
 In the era of Generative AI, creating hyper-realistic fake images ("Deepfakes") has become dangerously easy. These images can be used for misinformation, identity theft, and digital fraud. Distinguishing between a real photograph and an AI-generated image is becoming impossible for the human eye.
