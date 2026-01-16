@@ -104,3 +104,4 @@ Because a large scanned dataset (50GB+) was not provided, the system is currentl
 1.  **Real Data Integration**: Training on 100,000+ real deepfake faces.
 2.  **Video Detection**: processing video frame-by-frame to catch deepfakes in motion.
 3.  **Explainability (XAI)**: Generating "Heatmaps" to show users *exactly which pixel* looks fake.
+   
